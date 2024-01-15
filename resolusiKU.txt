@@ -1,5 +1,6 @@
 Menguasai JavaScript
 Mulai ReactJS
-Memulai PHP
+menambah wawasan
+Memulai Coding
 Membuat Project Portofolio
 Menambah Relasi

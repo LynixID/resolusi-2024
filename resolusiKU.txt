@@ -1,0 +1,3 @@
+Menguasai JavaScript
+Mulai ReactJS
+Belajar SASS

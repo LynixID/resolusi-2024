@@ -1,5 +1,5 @@
 Menguasai JavaScript
 Mulai ReactJS
-Belajar SASS
 Memulai PHP
-Membuat Project Siap Pasar
+Membuat Project Portofolio
+Menambah Relasi
